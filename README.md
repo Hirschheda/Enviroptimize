@@ -1,4 +1,5 @@
 **Inspiration**
+
 Climate change has affected billions of people around the world and remains an existential threat to humanity. Technological breakthroughs have allowed us to become much more aware of our climate footprint and help us move towards a sustainable future for all. We believe that the next step for sustainability is to utilize innovative machine learning models to bring the fight against climate change into the hands of the people.
 
 **What it does**
